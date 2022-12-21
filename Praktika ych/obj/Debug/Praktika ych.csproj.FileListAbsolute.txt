@@ -1,0 +1,13 @@
+D:\Проекты C#\Praktika ych\Praktika ych\bin\Debug\Praktika ych.exe.config
+D:\Проекты C#\Praktika ych\Praktika ych\bin\Debug\Praktika ych.exe
+D:\Проекты C#\Praktika ych\Praktika ych\bin\Debug\Praktika ych.pdb
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika ych.csproj.AssemblyReference.cache
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika ych.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika_ych.Form1.resources
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika_ych.Properties.Resources.resources
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika ych.csproj.GenerateResource.cache
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika ych.csproj.CoreCompileInputs.cache
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika ych.exe
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika ych.pdb
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika_ych.Form2.resources
+D:\Проекты C#\Praktika ych\Praktika ych\obj\Debug\Praktika_ych.Form3.resources
