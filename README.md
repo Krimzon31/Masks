@@ -56,3 +56,18 @@
 
 * Microsoft Visual Studio
 * C#
+
+# Документация
+
+Пользовательская документация:
+* [Руководство пользователя](https://github.com/Krimzon31/Masks/files/10312887/default.docx)
+
+Документация разработки:
+* [Техническое задание](https://github.com/Krimzon31/Masks/files/10312945/default.docx)
+* [Спецификация](https://github.com/Krimzon31/Masks/files/10312952/default.docx)
+* [Функциональные требования](https://github.com/Krimzon31/Masks/files/10312957/default.docx)
+* [Прицеденты](https://github.com/Krimzon31/Masks/files/10312966/_._.1.docx)
+
+Документация тестирования
+* [Тестовые пути и  граф](https://github.com/Krimzon31/Masks/files/10312970/default.docx)
+* [Тест кейсы](https://github.com/Krimzon31/Masks/files/10312973/default.docx)
